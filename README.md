@@ -1,1 +1,2 @@
-# new_project
+This is my first Git project
+Author - NEkita Bhowmik
