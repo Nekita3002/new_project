@@ -1,2 +1,3 @@
 This is my first Git project
-Author - NEkita Bhowmik
+<br>
+Author - Nekita Bhowmik
